@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QshRh7avuFwFKsC8YfZAqAhiI1WArItKaPJwasNauVVPYMgcJJDupmepuZFz2cq6QzlXxd9pfUsLo/EQ9LLfXQ==",
+  "success": true,
+  "projectFilePath": "F:\\3. Sınıf\\Dersler\\Yapay Zeka\\Genetik_Algoritma\\Genetik_Algoritma\\Genetik_Algoritma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yusuf Furkan Umutlu\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\Yusuf Furkan Umutlu\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
